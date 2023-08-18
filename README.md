@@ -1,14 +1,17 @@
 # INFO 340 Project
 Last edited on June 4st, 2023
 
+##Final Project Link
+https://info340-21de9.web.app/home
+
 ## This repository contains code for an interactive information web app, created for the _Client-Side Web Development_ course at the UW iSchool.
 
 ### This branch is for Spring quarter 2023, INFO 340 Section BB Group 03.
-### We will contniously update the readme file as we are working through the project.
+### We will continuously update the readme file as we are working through the project.
 
 ### Folders and Navigation of our repo
 - project-draft folder consist all the html and js file we create prior to the final version. (some of the file path need a redirection, since we moved then into this folder after writing the code) 
-- myapp2 folder will consist all the lastest code for our website written in react using jsx.
+- myapp2 folder will consist all the latest code for our website written in react using jsx.
 
 ### Initial Setup
 node installation 
