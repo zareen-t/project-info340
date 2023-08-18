@@ -1,7 +1,7 @@
 # INFO 340 Project
 Last edited on June 4st, 2023
 
-##Final Project Link
+## Final Project Link
 https://info340-21de9.web.app/home
 
 ## This repository contains code for an interactive information web app, created for the _Client-Side Web Development_ course at the UW iSchool.
